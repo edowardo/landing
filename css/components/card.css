@@ -1,0 +1,20 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.card {
+  width: 500px;
+  box-shadow: 0 0 8px lightgrey;
+  margin: 5px;
+}
+
+.card-inner {
+  margin: 20px;
+}
+
+.card img {
+  width: 100%;
+
+}

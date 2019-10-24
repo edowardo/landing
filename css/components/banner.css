@@ -1,0 +1,20 @@
+.banner {
+  width: auto;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  margin: none;
+  padding: none;
+  background-position: 50% 0%;
+  color: white;
+}
+
+.banner-fade {
+  background-color: rgba(0, 0, 0, 50%);
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 0 8px black;
+}
